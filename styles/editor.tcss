@@ -1,0 +1,24 @@
+Editor {
+    border: none;
+    padding: 0;
+    color: #00000000;
+    background: #00000000;
+    /* All lines other than cursor line transparent, soi can fake that weird editing preview thing opbsdian does
+    Did this is css cause rich doesnt let me set opacityr */
+}
+
+Editor .text-area--cursor-line {
+    color: #f8f8f2;
+    background: #3e3d32;
+}
+
+HeaderTitle {
+    width: 100%;
+}
+
+ToggleModeIcon {
+    dock: right;
+    width: 10;
+    padding: 0 1;
+    content-align: right middle;
+}

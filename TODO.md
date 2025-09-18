@@ -1,0 +1,11 @@
+# TODO
+- [ ] Basic text editor functionality
+- [ ] Core markdown rendering (headings, ...)
+- [ ] Latex rendering
+- [ ] Extended markdown rendering (tables, links, ...)
+- [ ] Make nice TUI
+- [ ] Note grouping
+- [ ] Tabs for notes
+- [ ] Note linking
+- [ ] In-terminal images (for some specific ones at least)
+- [ ] Links + Graph
